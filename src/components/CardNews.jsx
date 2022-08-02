@@ -24,9 +24,9 @@ const CardNews = (props) => {
     <>
       <Card
         sx={{
-          maxWidth: "420px",
+          maxWidth: { xs: "100%", md: "45%" },
           boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
-          mb: 2,
+          margin: "10px",
         }}
       >
         <CardActionArea onClick={() => handleOnClickCard()}>

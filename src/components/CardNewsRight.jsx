@@ -55,7 +55,7 @@ const CardNewsRight = () => {
   };
   return (
     <>
-      <Typography variant="h5" color="initial">
+      <Typography variant="h3" my={4}>
         For You
       </Typography>
       <Card
