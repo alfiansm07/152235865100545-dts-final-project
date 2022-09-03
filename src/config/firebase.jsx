@@ -12,12 +12,12 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCKX6lonEh4LdSWxjZY_MT8j6PQgyo3MHs",
-  authDomain: "dts-movie.firebaseapp.com",
-  projectId: "dts-movie",
-  storageBucket: "dts-movie.appspot.com",
-  messagingSenderId: "981995330858",
-  appId: "1:981995330858:web:3f92462260ee56204b5253",
+  apiKey: "AIzaSyCjNQZ9GjJ196Tm7I7VfZNVzMgBdxy-A_g",
+  authDomain: "kembang15-accd4.firebaseapp.com",
+  projectId: "kembang15-accd4",
+  storageBucket: "kembang15-accd4.appspot.com",
+  messagingSenderId: "624366280103",
+  appId: "1:624366280103:web:ec03419a71959432442a82"
 };
 
 // Initialize Firebase
